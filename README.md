@@ -1,2 +1,2 @@
 # NodeKart
-Decentralised Grocery platform based on Sharp tokens
+Decentralised Grocery Ecommerce platform powered by SHARP token payments and escrow.
